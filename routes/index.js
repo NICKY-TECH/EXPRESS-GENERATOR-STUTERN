@@ -1,7 +1,7 @@
 let express = require("express");
 let stutern = express.Router();
 
-/* GET users listing. */
+/* send an object . */
 stutern.get("/", function (req, res, next) {
   req.params.message = {
     name: "ONYIBE JUSTINA",
