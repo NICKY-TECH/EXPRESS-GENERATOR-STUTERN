@@ -12,5 +12,18 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "- RUN npx express-generator --view=pug (template-engine-of-your-choice) folder-name",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NICKY-TECH/EXPRESS-GENERATOR-STUTERN.git"
+  },
+  "author": "JUSTINA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NICKY-TECH/EXPRESS-GENERATOR-STUTERN/issues"
+  },
+  "homepage": "https://github.com/NICKY-TECH/EXPRESS-GENERATOR-STUTERN#readme"
 }

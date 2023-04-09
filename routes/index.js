@@ -9,7 +9,6 @@ stutern.get("/", function (req, res, next) {
     age: 10,
   };
   res.status(200).json({
-    status: "success",
     data: req.params.message,
   });
 });
